@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Weather Viewer</string>
+    <string name="artwork" translatable="false">artwork</string>
+    <string name="search">Search</string>
+    <string name="pull_down_refresh">pull down to refresh data !</string>
+    <string name="info"> %s\n%s\n%s  </string>
+    <string name="created_time">created time : %s</string>
+    <string name="total_view">total view : %d</string>
+
+    <string name="error_detail">Problem while getting info, Try again..</string>
+    <string name="error_no_data">"No data found, Try again."</string>
+    <string name="error_network">"network error, check network then try again."</string>
+    <string name="loading">loading</string>
+    <string name="staff">STAFF</string>
+</resources>
